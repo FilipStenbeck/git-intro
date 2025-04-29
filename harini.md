@@ -1,0 +1,1 @@
+Thank you, Filip, for teaching us Git! Your guidance has been invaluable, and we truly appreciate your efforts in helping us understand version control better.
